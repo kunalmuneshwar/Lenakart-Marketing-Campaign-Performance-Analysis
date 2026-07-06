@@ -2,7 +2,7 @@
 ## Live project link - https://docs.google.com/spreadsheets/d/1SROSleCKATLSM14pUM_8FMGJvMzOPgeb1MHHqvoMomA/edit?usp=sharing
 
 
-#  Marketing Campaign Performance Analysis
+# Lenskart Marketing Campaign Analysis
 
 ##  Project Overview
 
